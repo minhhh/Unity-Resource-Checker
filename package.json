@@ -1,6 +1,6 @@
 {
   "name": "Unity-Resource-Checker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unity Resource Checker is used to check for redundant materials, textures you forget you're using, textures that can be compressed or reduced in size.",
   "main": "index.js",
   "files": [

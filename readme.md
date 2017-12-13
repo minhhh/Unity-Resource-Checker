@@ -8,6 +8,10 @@ To include Unity Resource Checker into your project, you can use npm method of u
 
 ## Changelog
 
+**0.0.2**
+
+* Upgrade to 2017.2
+
 **0.0.1**
 
 * Initial commit
